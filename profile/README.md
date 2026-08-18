@@ -41,9 +41,18 @@ mänskliga omdöme.
 
 **Nolera Studio** är vår privata runtime för kundwebbar, previews och leverans.
 
-**Nolera Handbook** är vår kanoniska agentmanual, System Atlas och kuraterade
+**Nolera Agents** är vår enda kanoniska agentmanual, System Atlas och kuraterade
 visuella referensbank. Den lär ut principer och relationer — aldrig en enda
 Nolera-look som kopieras mellan kunder.
+
+**Nolera Cloud** äger infrastrukturen och leveranskontrollen. Vi börjar med en
+delad, isolerad runtime och delar bara ut en ny tjänst när skala, säkerhet eller
+felisolering faktiskt kräver det.
+
+Organisationen har fyra tydliga ytor: den här profilen och gemensamma defaults,
+[`nolera-agents`](https://github.com/nolera-labs/nolera-agents),
+[`nolera-studio`](https://github.com/nolera-labs/nolera-studio) och
+[`nolera-cloud`](https://github.com/nolera-labs/nolera-cloud).
 
 Nolera är operatörslett. Research eller AI-produktion skickar, publicerar eller
 påstår ingenting på egen hand.
