@@ -39,7 +39,7 @@ mänskliga omdöme.
 
 ## Systemet bakom arbetet
 
-**Nolera Studio** är vår privata runtime för kundwebbar, previews och leverans.
+**Nolera Studio** är vår runtime för kundwebbar och Nolera Prototype.
 
 **Nolera Agents** är vår enda kanoniska agentmanual, System Atlas och kuraterade
 visuella referensbank. Den lär ut principer och relationer — aldrig en enda
@@ -49,8 +49,8 @@ Nolera-look som kopieras mellan kunder.
 delad, isolerad runtime och delar bara ut en ny tjänst när skala, säkerhet eller
 felisolering faktiskt kräver det.
 
-**Nolera Operations** äger den manuella kommersiella uppföljningen efter ett
-separat, uttryckligt beslut om faktisk kundkontakt.
+**Nolera Operations** ger agenten små API-kommandon för Zoho Mail och Twenty.
+Mejl kräver alltid ett separat, uttryckligt `SKICKA` från en människa.
 
 Organisationen har fem tydliga ytor: den här profilen och gemensamma defaults,
 [`nolera-agents`](https://github.com/nolera-labs/nolera-agents),

@@ -6,7 +6,7 @@ runtime or cloud state.
 
 - `nolera-agents` owns the one canonical handbook, System Atlas and visual
   reference catalogue.
-- `nolera-studio` owns customer runtime and private preview behavior.
+- `nolera-studio` owns customer runtime and Nolera Prototype behavior.
 - `nolera-cloud` owns infrastructure intent and deployment tooling.
 
 Do not copy handbook chapters or customer material into this repository. Keep
