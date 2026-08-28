@@ -49,10 +49,14 @@ Nolera-look som kopieras mellan kunder.
 delad, isolerad runtime och delar bara ut en ny tjänst när skala, säkerhet eller
 felisolering faktiskt kräver det.
 
-Organisationen har fyra tydliga ytor: den här profilen och gemensamma defaults,
+**Nolera Operations** äger den manuella kommersiella uppföljningen efter ett
+separat, uttryckligt beslut om faktisk kundkontakt.
+
+Organisationen har fem tydliga ytor: den här profilen och gemensamma defaults,
 [`nolera-agents`](https://github.com/nolera-labs/nolera-agents),
 [`nolera-studio`](https://github.com/nolera-labs/nolera-studio) och
-[`nolera-cloud`](https://github.com/nolera-labs/nolera-cloud).
+[`nolera-cloud`](https://github.com/nolera-labs/nolera-cloud), samt den privata
+`nolera-operations`-ytan.
 
 Nolera är operatörslett. Research eller AI-produktion skickar, publicerar eller
 påstår ingenting på egen hand.

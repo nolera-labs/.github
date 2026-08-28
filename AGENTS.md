@@ -12,3 +12,6 @@ runtime or cloud state.
 Do not copy handbook chapters or customer material into this repository. Keep
 organization copy factual and do not claim that a provider, deployment or
 customer site is live without current verification.
+
+Browser routing is owned solely by
+`../nolera-agents/handbook/INDEX.md`; this repository adds no browser override.
