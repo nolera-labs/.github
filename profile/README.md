@@ -41,9 +41,9 @@ mänskliga omdöme.
 
 **Nolera Studio** är vår runtime för kundwebbar och Nolera Prototype.
 
-**Nolera Agents** är vår enda kanoniska agentmanual, System Atlas och kuraterade
-visuella referensbank. Den lär ut principer och relationer — aldrig en enda
-Nolera-look som kopieras mellan kunder.
+**Nolera Agents** är vår enda kanoniska agentmanual och kuraterade visuella
+referensbank. Den lär ut principer och relationer — aldrig en enda Nolera-look
+som kopieras mellan kunder.
 
 **Nolera Cloud** äger infrastrukturen och leveranskontrollen. Vi börjar med en
 delad, isolerad runtime och delar bara ut en ny tjänst när skala, säkerhet eller

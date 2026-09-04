@@ -4,8 +4,8 @@ This repository owns only the public organization profile and reusable GitHub
 defaults. It does not own the Nolera agent method, customer source, application
 runtime or cloud state.
 
-- `nolera-agents` owns the one canonical handbook, System Atlas and visual
-  reference catalogue.
+- `nolera-agents` owns the one canonical handbook and visual reference
+  catalogue.
 - `nolera-studio` owns customer runtime and Nolera Prototype behavior.
 - `nolera-cloud` owns infrastructure intent and deployment tooling.
 
